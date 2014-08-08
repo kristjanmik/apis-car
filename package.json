@@ -1,0 +1,17 @@
+{
+    "name": "apis-car",
+    "version": "0.1.2",
+    "author": {
+        "name": "Kristján Ingi Mikaelsson",
+        "email": "kristjanmik@gmail.com"
+    },
+    "description": "A wrapper around the car module for the apis.is platform",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/kristjanmik/apis-car.git"
+    },
+    "dependencies": {
+        "car": "~0.1.1",
+        "apis-parser": "~0.1.0"
+    }
+}
